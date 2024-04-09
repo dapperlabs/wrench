@@ -1,4 +1,4 @@
-module github.com/cloudspannerecosystem/wrench
+module github.com/dapperlabs/wrench
 
 go 1.20
 
