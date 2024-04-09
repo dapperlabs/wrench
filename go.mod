@@ -4,6 +4,7 @@ go 1.20
 
 require (
 	cloud.google.com/go/spanner v1.47.0
+	github.com/cloudspannerecosystem/wrench v1.5.0
 	github.com/google/uuid v1.5.0
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/spf13/cobra v1.7.0
